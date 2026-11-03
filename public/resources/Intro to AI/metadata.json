@@ -1,0 +1,21 @@
+{
+  "year": 4,
+  "resources": {
+    "Chapter 1.pptx": {
+      "title": "Introduction to AI",
+      "category": "Exit"
+    },
+    "Chapter 2.docx": {
+      "title": "Intelligent Agents",
+      "category": "Non-Exit"
+    },
+    "Chapter 3.pdf": {
+      "title": "Searching Algorithms",
+      "category": "Non-Exit"
+    },
+    "Chapter 4.odp": {
+      "title": "Knowledge Representation",
+      "category": "Non-Exit"
+    }
+  }
+}
